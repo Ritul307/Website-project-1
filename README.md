@@ -1,6 +1,6 @@
 # Web Design & Development Course Landing Page
+Created a login form using html css js also add form validation using js and use alert to show result.
 
-This project is a responsive landing page for a fictional "Web Design & Development" course. Built using HTML and CSS, it features a login panel, navigation bar, and call-to-action elements.
 
 ## Features
 - Responsive layout
@@ -11,11 +11,8 @@ This project is a responsive landing page for a fictional "Web Design & Developm
 ## Technologies Used
 - HTML5
 - CSS3
+- js
 
-## How to Use
-1. Clone the repo
-2. Open `index.html` in your browser
 
-## Preview
-![Screenshot](./screenshot.png)
+
 
